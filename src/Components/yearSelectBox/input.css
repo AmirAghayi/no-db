@@ -1,0 +1,18 @@
+.input{
+border-radius: 10px;
+font-size: 30px;
+}
+
+
+.year-select{
+    margin: 0px;
+    margin-right: 10px;
+    font-size: 30px;
+ 
+}
+
+.year-select:hover{
+    cursor: pointer;
+    background-color: black;
+    color: aliceblue;
+}
